@@ -1,5 +1,8 @@
 # Wireless-Ralink-Panel-Utility
 
+## For Real Mac and Hackintosh
+- OS X El Capitan 10.13 and above you must have the SIP Security disable 
+
 ### Works from Mac OS X Snow Leopard 10.6.8 to macOS Catalina 10.15
 - Install  ➣ /System/Library/Extensions/RT2870USBWirelessDriver.kext
 - Install  ➣ UI  /System/Library/StartupItems/RalinkUtility 
