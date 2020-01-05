@@ -13,7 +13,7 @@
 
 #### Download ➤ [Wireless-Ralink-Panel-Utility.pkg.zip](https://github.com/chris1111/Wireless-Ralink-Panel-Utility/releases/tag/V1)
 
-#### Follow Video ⬇︎
+## Follow Video ⬇︎
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/video15.png)](https://youtu.be/pwypsmYPzeE)
 
