@@ -11,7 +11,7 @@
 - RT5370,RT2870,RT3071,RT2770,RT3573,RT5572,RT3573,
 - RT3573,RT5572,RT3572
 
-#### Download ➤ [Wireless-Ralink-Panel-Utility.pkg.zip]()
+#### Download ➤ [Wireless-Ralink-Panel-Utility.pkg.zip](https://github.com/chris1111/Wireless-Ralink-Panel-Utility/releases/tag/V1)
 
 #### Follow Video ⬇︎
 
