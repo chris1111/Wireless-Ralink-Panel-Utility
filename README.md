@@ -3,7 +3,7 @@
 ## For Real Mac and Hackintosh
 - OS X El Capitan 10.13 and above you must have the SIP Security disable 
 
-- Credits: [chris1111](https://github.com/chris1111), [Ralink](https://en.wikipedia.org/wiki/Ralink), [D-Link](https://us.dlink.com/en/consumer),  [Mediatek](https://www.mediatek.com)
+- Credits: [(chris1111)](https://github.com/chris1111), [(Ralink)](https://en.wikipedia.org/wiki/Ralink), [(D-Link)](https://us.dlink.com/en/consumer),  [(Mediatek)](https://www.mediatek.com)
 
 ### Works from Mac OS X Snow Leopard 10.6.8 to macOS Catalina 10.15
 - Install  ➣ /System/Library/Extensions/RT2870USBWirelessDriver.kext
