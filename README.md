@@ -4,6 +4,7 @@
 # Wireless-Ralink-Panel-Utility
 ### Works from Mac OS X Snow Leopard 10.6.8 to macOS Catalina 10.15
 
+### Update 23 Fev 2020 adapted for macOS Catalina 10.15.4
 
 - OS X El Capitan 10.13 and above you must have the SIP Security disable 
 
@@ -20,6 +21,8 @@
 - RT3572,RT3072,RT3070,RT3573,MT7610,MT7610,MT7610,
 - RT5370,RT2870,RT3071,RT2770,RT3573,RT5572,RT3573,
 - RT3573,RT5572,RT3572
+
+#### Download latest release V2 ➤ [Wireless-Ralink-Panel-Utility.pkg.zip](https://github.com/chris1111/Wireless-Ralink-Panel-Utility/releases/tag/V2)
 
 #### Download ➤ [Wireless-Ralink-Panel-Utility.pkg.zip](https://github.com/chris1111/Wireless-Ralink-Panel-Utility/releases/tag/V1)
 
