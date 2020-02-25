@@ -4,7 +4,7 @@
 # Wireless-Ralink-Panel-Utility
 ### Works from Mac OS X Snow Leopard 10.6.8 to macOS Catalina 10.15
 
-### Update 23 Fev 2020 adapted for macOS Catalina 10.15.4
+### Update 23 Feb 2020 adapted for macOS Catalina 10.15.4
 
 - OS X El Capitan 10.13 and above you must have the SIP Security disable 
 
