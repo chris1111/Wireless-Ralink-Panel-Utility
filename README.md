@@ -2,6 +2,8 @@
 
 
 # Wireless-Ralink-Panel-Utility
+### An old D-Link project that I redid to adapt it to macOS Catalina
+
 ### Works from Mac OS X Snow Leopard 10.6.8 to macOS Catalina 10.15
 
 ### Update 23 Feb 2020 adapted for macOS Catalina 10.15.4
