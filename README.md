@@ -37,5 +37,5 @@ RT5572, RT3572, RT3072, RT3070, RT3573, MT7621U
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/video15.png)](https://youtu.be/pwypsmYPzeE)
 
 
-#### Download latest release V3 ➤ [Wireless-Ralink-Panel-Utility.pkg.zip](https://github.com/chris1111/Wireless-Ralink-Panel-Utility/releases/tag/V2)
+#### Download latest release V2 ➤ [Wireless-Ralink-Panel-Utility.pkg.zip](https://github.com/chris1111/Wireless-Ralink-Panel-Utility/releases/tag/V2)
 
