@@ -7,7 +7,7 @@
 
 ### Works from Mac OS X Snow Leopard 10.6.8 to macOS Catalina 10.15
 
-### Update 27 July 2021 add support macOS Big Sur 11
+### Update 13 Sept 2021 Not support macOS Big Sur 11
 
 - OS X El Capitan 10.13 and above you must have the SIP Security disable 
 
@@ -27,23 +27,15 @@ RT5572, RT3572, RT3072, RT3070, RT3573, MT7621U
 ## For macOS Big Sur, the installation is done with a Snapshot Disk. 
 . Warning: this package replaces system files and could render your system unbootable.
 
-. To using this program SIP security (Fully disable on Big Sur)
+. To using this program SIP security must be disable
 . csrutil disable
-. csrutil authenticated-root disable
 . Gatekeeper must be disable
 
-. OpenCore or Clover config setup:
-. csr-active-config ☞ EF0F0000
-
-
-## Follow Video macOS Big Sur 11 ⬇︎
-
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/video15.png)](https://youtu.be/MbqsXNaEL08)
 
 ## Follow Video 10.6 to 10.15 ⬇︎
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/video15.png)](https://youtu.be/pwypsmYPzeE)
 
 
-#### Download latest release V3 ➤ [Wireless-Ralink-Panel-Utility.pkg.zip](https://github.com/chris1111/Wireless-Ralink-Panel-Utility/releases/tag/V3)
+#### Download latest release V3 ➤ [Wireless-Ralink-Panel-Utility.pkg.zip](https://github.com/chris1111/Wireless-Ralink-Panel-Utility/releases/tag/V2)
 
